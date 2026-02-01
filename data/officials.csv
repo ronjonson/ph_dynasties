@@ -1,0 +1,344 @@
+,name,location,job_title,district
+0,vicente c. sotto iii ,,senator,
+1,panfilo m. lacson ,,senator,
+2,juan miguel f. zubiri ,,senator,
+3,alan peter s. cayetano ,,senator,
+4,joseph victor g. ejercito ,,senator,
+5,risa hontiveros ,,senator,
+6,rodante d. marcoleta ,,senator,
+7,emmanuel joel j. villanueva ,,senator,
+8,paolo benigno a. aquino iv  ,,senator,
+9,pia s. cayetano ,,senator,
+10,ronald dela rosa ,,senator,
+11,francis g. escudero ,,senator,
+12,jinggoy e. estrada ,,senator,
+13,sherwin t. gatchalian ,,senator,
+14,christopher lawrence t. go ,,senator,
+15,manuel m. lapid ,,senator,
+16,loren legarda ,,senator,
+17,imee r. marcos  ,,senator,
+18,robinhood c. padilla ,,senator,
+19,francis n. pangilinan ,,senator,
+20,erwin t. tulfo ,,senator,
+21,raffy t. tulfo ,,senator,
+22,camille a. villar ,,senator,
+23,mark a. villar ,,senator,
+24,"bernos, jb",Abra,representative,Lone
+25,"corvera, dale b.",Agusan del Norte ,representative,Lone
+26,"bascug, alfelito m.",Agusan del Sur,representative,1st
+27,"plaza, eddiebong g.",Agusan del Sur,representative,2nd
+28,"marquez, jesus r.",Aklan,representative,1st
+29,"miraflores, florencio t.",Aklan,representative,2nd
+30,"lagman, cielo krisel",Albay,representative,1st
+31,"loria, carlos andes",Albay,representative,2nd
+32,"salceda, adrian e.",Albay,representative,3rd
+33,"puno, ronaldo v.",Antipolo City,representative,1st
+34,"acop, romeo m.",Antipolo City,representative,2nd
+35,"legarda, antonio jr. b.",Antique,representative, Lone
+36,"bulut-begtang, eleanor c.",Apayao,representative,Lone
+37,"angara, rommel rico t.",Aurora,representative,Lone
+38,"benitez, alfredo b.",Bacolod City,representative,Lone
+39,"domogan, mauricio g.",Baguio City,representative,Lone
+40,"alano, ustadz yusop t.",Basilan,representative,Lone
+41,"roman, antonino iii b.",Bataan,representative,1st
+42,"garcia, albert s.",Bataan,representative,2nd
+43,"garcia, maria angela s.",Bataan,representative, 3rd
+44,"gato, ciriaco jr. b.",Batanes,representative,Lone
+45,"leviste, leandro l.",Batangas,representative,1st
+46,"luistro, gerville r.",Batangas,representative,2nd
+47,"collantes, king george leandro antonio v.",Batangas,representative,"Collantes, King George Leandro Antonio V. 3rd"
+48,"bolilia, amado carlos iv a.",Batangas,representative,4th
+49,"dimacuha, beverly rose a.",Batangas,representative,5th
+50,"recto, ryan s.",Batangas,representative,6th
+51,"espina, gerardo jr. j.",Biliran,representative,Lone
+52,"dimaguila, walfredo jr. r.",Biñan City,representative,Lone
+53,"yap, john geesnell",Bohol,representative,1st
+54,"aumentado, maria vanessa c.",Bohol,representative,2nd
+55,"tutor, kristine alexie b.",Bohol,representative,3rd
+56,"alba, jose manuel f.",Bukidnon,representative,1st
+57,"flores, jonathan keith t.",Bukidnon,representative,2nd
+58,"zubiri, audrey kay t.",Bukidnon,representative,3rd
+59,"roque, laarni lavin",Bukidnon,representative,4th
+60,"domingo, danilo a.",Bulacan,representative,1st
+61,"violago, mark cholo i.","Pancho, Augustina Dominique C.  2nd (02 ) 8931-6248 727 1 ",representative,3rd
+62,"villarica, linabelle ruth r.","Pancho, Augustina Dominique C.  2nd (02 ) 8931-6248 727 1 ",representative,4th
+63,"cruz, agatha paula a.","Pancho, Augustina Dominique C.  2nd (02 ) 8931-6248 727 1 ",representative,5th
+64,"pleyto, salvador a.","Pancho, Augustina Dominique C.  2nd (02 ) 8931-6248 727 1 ",representative,6th
+65,"aquino, jose ii s.",Butuan City,representative,Lone
+66,"nolasco, ramon c.",Cagayan,representative,1st
+67,"vargas-alfonso, baby aline",Cagayan,representative,2nd
+68,"lara, joseph l.",Cagayan,representative, 3rd
+69,"suan, lordan g.",Cagayan de Oro City,representative,1st
+70,"hernandez, charisse anne c.",Calamba City,representative,Lone
+71,"malapitan, oscar g.",Caloocan City,representative,1st
+72,"erice, edgar r.",Caloocan City,representative, 2nd
+73,"asistio, dean",Caloocan City,representative,3rd
+74,"tallado, josefina b.",Camarines Norte,representative,1st
+75,"panotes, rosemarie c.",Camarines Norte,representative,2nd
+76,"horibata, tsuyoshi anthony g.",Camarines Sur,representative,1st
+77,"villafuerte, vicenzo renato luigi r.",Camarines Sur,representative,2nd
+78,"legacion, nelson s.",Camarines Sur,representative,3rd
+79,"fuentebella, arnie b.",Camarines Sur,representative,4th
+80,"villafuerte, miguel luis r.",Camarines Sur,representative,5th
+81,"romualdo, jurdin jesus m.",Camiguin,representative,Lone
+82,"guintu, ivan howard a.",Capiz,representative,1st
+83,"castro, jane t.",Capiz,representative,2nd
+84,"rodriguez, eulogio r.",Catanduanes,representative,Lone
+85,"revilla, ramon jolo iii b.",Cavite,representative,1st
+86,"mercado-revilla, lani",Cavite,representative,2nd
+87,"advincula, adrian jay c.",Cavite,representative,3rd
+88,"barzaga, francisco a.",Cavite,representative,4th
+89,"loyola, roy m.",Cavite,representative,5th
+90,"ferrer, antonio a.",Cavite,representative,6th
+91,"tolentino, aniela bianca d.","Remulla, Crispin Diego D.  7th    7794",representative,8th
+92,"gullas, rhea mae a.",Cebu,representative,1st
+93,"galeos, edsel a.",Cebu,representative,2nd
+94,"garcia, karen hope f.",Cebu,representative,3rd
+95,"shimura, sun j.",Cebu,representative,4th
+96,"frasco, vincent franco d.",Cebu,representative,5th
+97,"lagon, daphne a.",Cebu,representative,6th
+98,"calderon, patricia c.",Cebu,representative,7th
+99,"del mar, rachel marguerite b.",Cebu City,representative,1st
+100,"rama, eduardo r.",Cebu City,representative,2nd
+101,"cruzado, edwin l.",Cotabato,representative,1st
+102,"caoagdan, rudy s.",Cotabato,representative,2nd
+103,"santos, ma. alana samantha t.",Cotabato,representative,3rd
+104,"duterte, paolo z.",Davao City,representative,1st
+105,"duterte, omar vincent s.",Davao City,representative,2nd
+106,"ungab, isidro t.",Davao City,representative,3rd
+107,"ceniza, leonel d.","Zamora, Maria Carmen S.  1st    7793 ",representative,2nd
+108,"uy, de carlo l.",Davao del Norte,representative,1st
+109,"lagdameo, jose manuel f.",Davao del Norte,representative,2nd
+110,"cagas, john tracy f.",Davao del Sur,representative,Lone
+111,"bautista, claude p.",Davao Occidental,representative,Lone
+112,"dayanghirang, nelson l.",Davao Oriental ,representative,1st
+113,"almario, cheeno miguel d.",Davao Oriental ,representative,2nd
+114,"bag-ao, kaka j.",Dinagat Islands,representative,Lone
+115,"gonzales, christopher sheen p.",Eastern Samar,representative,Lone
+116,"bañas-nograles, shirlyn l.",General Santos City,representative,Lone
+117,"nava, jc rahman a.",Guimaras,representative,Lone
+118,"chungalao, solomon r.",Ifugao,representative,Lone
+119,"regencia, celso g.",Iligan City,representative,Lone
+120,"marcos, ferdinand alexander a.",Ilocos Norte,representative,1st
+121,"barba, angelo m.",Ilocos Norte,representative,2nd
+122,"singson, ronald v.",Ilocos Sur,representative,1st
+123,"garin, janette l.",Iloilo,representative,1st
+124,"gorriceta, kathryn joyce f.",Iloilo,representative,2nd
+125,"defensor, lorenz r.",Iloilo,representative,3rd
+126,"biron, ferjenel g.",Iloilo,representative,4th
+127,"tupas, binky april m.",Iloilo,representative,5th
+128,"baronda, julienne",Iloilo City,representative, Lone
+129,"albano, antonio t.",Isabela,representative,1st
+130,"go, ed christopher s.",Isabela,representative,2nd
+131,"dy, ian paul l.",Isabela,representative,3rd
+132,"tan, joseph s.",Isabela,representative,4th
+133,"dy, faustino michael carlos iii t.",Isabela,representative,5th
+134,"dy, faustino iii g.",Isabela,representative,6th
+135,"agyao, caroline b.",Kalinga,representative,Lone
+136,"ortega, francisco paulo v. p.",La Union,representative,1st
+137,"garcia, dante s.",La Union,representative,2nd
+138,"matibag, ma. rene ann lourdes g.",Laguna,representative,1st
+139,"hernandez, ramil l.",Laguna,representative,2nd
+140,"amante, loreto s.",Laguna,representative,3rd
+141,"agarao, benjamin jr. c.",Laguna,representative,4th
+142,"dimaporo, imelda q.",Lanao del Norte,representative,1st
+143,"dimaporo, sittie aminah q.",Lanao del Norte,representative,2nd
+144,"adiong, ziaur-rahman a.",Lanao del Sur,representative,1st
+145,"balindong, yasser alonto",Lanao del Sur,representative,2nd
+146,"chan, junard q.",Lapu-Lapu City,representative,Lone
+147,"santos, mark anthony",Las Piñas City,representative,Lone
+148,"romualdez, ferdinand martin g.",Leyte,representative,1st
+149,"javier, lolita t.",Leyte,representative,2nd
+150,"veloso-tuazon, anna victoria",Leyte,representative,3rd
+151,"gomez, richard i.",Leyte,representative,4th
+152,"cari, carl nicolas c.",Leyte,representative,5th
+153,"mastura, bai dimple i.",Maguindanao del Norte,representative,Lone
+154,"mangudadatu, esmael g.",Maguindanao del Sur,representative,Lone
+155,"lagdameo, monique yazmin maria q.",Makati City,representative,"Lagdameo, Monique Yazmin Maria Q. 1st"
+156,"almario, dennis b.",Makati City,representative,2nd
+157,"oreta, antolin iii a.",Malabon City,representative,Lone
+158,"gonzales, alexandria p.",Mandaluyong City,representative,Lone
+159,"ouano-dizon, emmarie",Mandaue City,representative, Lone
+160,"dionisio, ernesto jr. m.",Manila,representative,1st
+161,"valeriano, rolando m.",Manila,representative,2nd
+162,"chua, joel r.",Manila,representative,3rd
+163,"maceda, giselle mary l.",Manila,representative,4th
+164,"tieng, irwin c.",Manila,representative,5th
+165,"abante, bienvenido jr. m.",Manila,representative,6th
+166,"teodoro, marcelino r.",Marikina City,representative,1st
+167,"quimbo, miro s.",Marikina City,representative,2nd
+168,"salvacion, reynaldo p.",Marinduque,representative,Lone
+169,"kho, antonio t.",Masbate,representative,1st
+170,"kho, elisa t.",Masbate,representative,2nd
+171,"kho, wilton t.",Masbate,representative,3rd
+172,"almonte, jason p.",Misamis Occidental,representative,1st
+173,"oaminal, sancho fernando f.",Misamis Occidental,representative,2nd
+174,"lagbas, jennifer a.",Misamis Oriental,representative,1st
+175,"emano, yevgeny vincente b.",Misamis Oriental,representative,2nd
+176,"dalog, maximo jr. y.",Mountain Province,representative,Lone
+177,"fresnedi, jaime r.",Muntinlupa City,representative,Lone
+178,"tiangco, tobias m.",Navotas City,representative,Lone
+179,"ledesma, julio iv a.",Negros Occidental,representative,1st
+180,"marañon, alfredo iii d.",Negros Occidental,representative,2nd
+181,"benitez, javier miguel l.",Negros Occidental,representative,3rd
+182,"ferrer, jeffrey p",Negros Occidental,representative,4th
+183,"yulo, emilio bernardino l.",Negros Occidental,representative,5th
+184,"alvarez, mercedes k.",Negros Occidental,representative,6th
+185,"iway, emmanuel l.",Negros Oriental,representative,1st
+186,"sagarbarria, ma. isabel l.",Negros Oriental,representative,2nd
+187,"degamo, janice",Negros Oriental,representative,3rd
+188,"daza, niko raul s.j.",Northern Samar,representative,1st
+189,"ongchuan, edwin",Northern Samar,representative,2nd
+190,"suansing, mikaela angela b.",Nueva Ecija,representative,1st
+191,"salvador, mario o.",Nueva Ecija,representative,2nd
+192,"vergara, julius cesar v.",Nueva Ecija,representative,3rd
+193,"pascual, emerson d.",Nueva Ecija,representative,4th
+194,"cayton, timothy joseph e.",Nueva Vizcaya,representative,Lone
+195,"tarriela, leody f.",Occidental Mindoro,representative,Lone
+196,"panaligan, arnan c.",Oriental Mindoro,representative,1st
+197,"umali, alfonso jr. v.",Oriental Mindoro,representative,2nd
+198,"salvame, rosalie a.",Palawan,representative,1st
+199,"alvarez, jose c.",Palawan,representative,2nd
+200,"acosta, gil",Palawan,representative,3rd
+201,"lazatin, carmelo jr. g.",Pampanga,representative,1st
+202,"gonzales, alyssa michaela m.","Macapagal-Arroyo, Gloria   2nd ",representative,3rd
+203,"bondoc, anna york p.","Macapagal-Arroyo, Gloria   2nd ",representative,4th
+204,"celeste, arthur f.",Pangasinan,representative,1st
+205,"cojuangco, mark o.",Pangasinan,representative,2nd
+206,"arenas, maria rachel j.",Pangasinan,representative,3rd
+207,"de venecia, ma. georgina p.",Pangasinan,representative,4th
+208,"primicias-agabas, marlyn l.","Guico, Ramon Jr. N.  5th    7791 ",representative,6th
+209,"olivarez, eric l.",Parañaque City,representative,1st
+210,"yamsuan, brian raymund s.",Parañaque City,representative,2nd
+211,"calixto, antonino g.",Pasay City,representative,Lone
+212,"romulo, roman t.",Pasig City,representative,Lone
+213,"enverga, wilfrido mark m.",Quezon,representative,1st
+214,"suarez, david c.",Quezon,representative,2nd
+215,"arrogancia, reynante u.",Quezon,representative,3rd
+216,"tan, keith micah d.l.",Quezon,representative,4th
+217,"atayde, juan carlos c.",Quezon City,representative,1st
+218,"tulfo, ralph wendel p.",Quezon City,representative,2nd
+219,"pumaren, franz s.",Quezon City,representative,3rd
+220,"suntay, jesus manuel c.",Quezon City,representative,4th
+221,"vargas, patrick michael d.",Quezon City,representative,5th
+222,"co-pilar, maria victoria",Quezon City,representative,6th
+223,"cua, midy n.",Quirino,representative,Lone
+224,"ynares, rebecca maria a.",Rizal,representative,1st
+225,"tanjuatco, emigdio iii p.",Rizal,representative,2nd
+226,"garcia, jose arturo jr. s.",Rizal,representative,3rd
+227,"hernandez, dennis l.",Rizal,representative,4th
+228,"madrona, eleandro jesus f.",Romblon,representative,Lone
+229,"tan, stephen james t.",Samar,representative,1st
+230,"tan, reynolds michael t.",Samar,representative,2nd
+231,"robes, arturo b.",San Jose Del Monte City,representative,Lone
+232,"zamora, ysabel maria j.",San Juan City,representative,Lone
+233,"gonzales, roy m.",Santa Rosa City,representative,Lone
+234,"solon, steve chiongbian",Sarangani,representative,Lone
+235,"villa, zaldy s.",Siquijor,representative,Lone
+236,"escudero, marie bernadette g.",Sorsogon,representative,1st
+237,"fortes, wowo",Sorsogon,representative,2nd
+238,"lumayag, isidro d.",South Cotabato,representative,1st
+239,"hernandez, ferdinand l.",South Cotabato,representative,2nd
+240,"tuan, dibu s.",South Cotabato,representative,3rd
+241,"mercado, roger g.",Southern Leyte,representative,1st
+242,"yap, christopherson m.",Southern Leyte,representative,2nd
+243,"sakaluran, ruth m.",Sultan Kudarat,representative,1st
+244,"suansing, bella vanessa b.",Sultan Kudarat,representative,2nd
+245,"tan, samier a.",Sulu,representative,1st
+246,"arbison, munir m.",Sulu,representative,2nd
+247,"matugas, francisco t.",Surigao del Norte,representative,1st
+248,"momo, romeo sr. s.",Surigao del Sur,representative,1st
+249,"pimentel, alexander t.",Surigao del Sur,representative,2nd
+250,"cruz, ricardo jr. s.",Taguig City,representative,1st
+251,"bocobo, jorge daniel s.",Taguig City,representative,2nd
+252,"cojuangco, jaime eduardo marc d.",Tarlac,representative,"Cojuangco, Jaime Eduardo Marc D. 1st"
+253,"angeles, maria angela c.",Tarlac,representative,2nd
+254,"rivera, noel n.",Tarlac,representative,3rd
+255,"sali, dimszar m.",Tawi-Tawi,representative,Lone
+256,"gatchalian, kenneth t.",Valenzuela City,representative,1st
+257,"galang, gerald cloyd alexis v.",Valenzuela City,representative,2nd
+258,"khonghun, jefferson f.",Zambales,representative,1st
+259,"maniquiz, doris e.",Zambales,representative,2nd
+260,"chua-tai, katrina reiko",Zamboanga City,representative,1st
+261,"perez, jerry e.",Zamboanga City,representative,2nd
+262,"uy, roberto jr. t.",Zamboanga del Norte,representative,1st
+263,"labadlabad, irene g.",Zamboanga del Norte,representative,2nd
+264,"amatong, adrian michael a.",Zamboanga del Norte,representative,3rd
+265,"yu, joseph kim c.",Zamboanga del Sur,representative,1st
+266,"yu, jeyzel victoria c.",Zamboanga del Sur,representative,2nd
+267,"bancoro, marlo c.",Zamboanga Sibugay,representative,1st
+268,"hofer-hasim, marlesa",Zamboanga Sibugay,representative,2nd
+269,eustaquio p. bersamin,Abra,governor,
+270,anne bersamin,Abra,vice-governor,
+271,elias c. bulut jr.,Apayao,governor,
+272,kyle mariah chelsea s. bulut-cunan,Apayao,vice-governor,
+273,melchor d. diclas,Benguet,governor,
+274,marie rose t. fongwan-kepes,Benguet,vice-governor,
+275,jerry u. dalipog,Ifugao,governor,
+276,martin l. habawel jr.,Ifugao,vice-governor,
+277,james s. edduba,Kalinga,governor,
+278,dave q. odiem,Kalinga,vice-governor,
+279,bonifacio c. lacwasan jr.,,governor,
+280,jose o. dominguez,,vice-governor,
+281,cecilia a. marcos,Ilocos Norte,governor,
+282,matthew joseph m. manotoc,Ilocos Norte,vice-governor,
+283,jeremias c. singson,Ilocos Sur,governor,
+284,ryan luis v. singson,Ilocos Sur,vice-governor,
+285,mario eduardo c. ortega,La Union,governor,
+286,eric o. sibuma,La Union,vice-governor,
+287,ramon v. guico iii,Pangasinan,governor,
+288,mark ronald d.g. lambino,Pangasinan,vice-governor,
+289,ronald p. aguto jr.,Batanes,governor,
+290,jonathan enriquez v. nanud jr.,Batanes,vice-governor,
+291,edgar b. aglipay,Cagayan,governor,
+292,manuel n. mamba,Cagayan,vice-governor,
+293,rodolfo t. albano iii,Isabela,governor,
+294,faustino g. dy iii,Isabela,vice-governor,
+295,jose v. gambito,,governor,
+296,eufemia a. dacayo,,vice-governor,
+297,dakila carlo e. cua,Quirino,governor,
+298,julius caesar s. vaquilar,Quirino,vice-governor,
+299,isidro p. galban,Aurora,governor,
+300,patrick alexis g. angara,Aurora,vice-governor,
+301,jose enrique s. garcia iii,Bataan,governor,
+302,ma. cristina m. garcia,Bataan,vice-governor,
+303,patrick alain t. azanza,Catanduanes,governor,
+304,robert a. fernandez,Catanduanes,vice-governor,
+305,ricardo t. kho,Masbate,governor,
+306,fernando p. talisic,Masbate,vice-governor,
+307,jose edwin b. hamor,Sorsogon,governor,
+308,krunimar antonio d. escudero ii,Sorsogon,vice-governor,
+309,jose enrique m. miraflores,Aklan,governor,
+310,dexter m. calizo,Aklan,vice-governor,
+311,paolo everardo s. javier,Antique,governor,
+312,genevive l. reyes,Antique,vice-governor,
+313,fredenil h. castro,Capiz,governor,
+314,jaime o. magbanua,Capiz,vice-governor,
+315,ma. lucille l. nava,Guimaras,governor,
+316,cecile c. gumarin,Guimaras,vice-governor,
+317,arthur r. defensor jr.,Iloilo,governor,
+318,nathalie ann f. debuque,Iloilo,vice-governor,
+319,eugenio jose v. lacson,,governor,
+320,jose benito a. alonso,,vice-governor,
+321,manuel l. sagarbarria,,governor,
+322,cezanne fritz h. diaz,,vice-governor,
+323,jake vincent s. villa,Siquijor,governor,
+324,dindo a. tumala,Siquijor,vice-governor,
+325,erico aristotle c. aumentado,Bohol,governor,
+326,pacifico nicanor s. besas,Bohol,vice-governor,
+327,pamela s. baricuatro,Cebu,governor,
+328,glenn anthony soco,Cebu,vice-governor,
+329,rogelio j. espina,Biliran,governor,
+330,roselyn espina-paras,Biliran,vice-governor,
+331,ralph vincent m. evardone,Eastern Samar,governor,
+332,maria caridad s. goteesan,Eastern Samar,vice-governor,
+333,carlos jericho l. petilla,Leyte,governor,
+334,leonardo m. javier jr.,Leyte,vice-governor,
+335,harris christopher,,governor,
+336,clarence e. dato,,vice-governor,
+337,m. ongchuan,Samar,governor,
+338,,Samar,vice-governor,
+339,sharee ann t. tan,Samar,governor,
+340,arnold v. tan,Samar,vice-governor,
+341,damian g. mercado,,governor,
+342,rosa emilia g. mercado,,vice-governor,
